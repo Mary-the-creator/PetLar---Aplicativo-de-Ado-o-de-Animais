@@ -44,7 +44,7 @@ Ele busca unir propósito social e usabilidade, promovendo a adoção consciente
 ## 📫 Contato
 
 **Marya Eduarda Pereira de Oliveira**  
-[LinkedIn](https://www.linkedin.com/in/maryaeoliv/) | (inserir se quiser)  
+[LinkedIn](https://www.linkedin.com/in/maryaeoliv/) |  
 Email: maryaeolivdev@gmail.com
 
 ---
